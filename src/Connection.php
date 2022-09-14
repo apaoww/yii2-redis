@@ -5,15 +5,15 @@
  * Time: 13:59
  */
 
-namespace pavle\yii\redis;
+namespace apaoww\yii\redis;
 
-use pavle\yii\redis\Profile\RedisVersion200;
-use pavle\yii\redis\Profile\RedisVersion220;
-use pavle\yii\redis\Profile\RedisVersion240;
-use pavle\yii\redis\Profile\RedisVersion260;
-use pavle\yii\redis\Profile\RedisVersion280;
-use pavle\yii\redis\Profile\RedisVersion300;
-use pavle\yii\redis\Profile\RedisVersion320;
+use apaoww\yii\redis\Profile\RedisVersion200;
+use apaoww\yii\redis\Profile\RedisVersion220;
+use apaoww\yii\redis\Profile\RedisVersion240;
+use apaoww\yii\redis\Profile\RedisVersion260;
+use apaoww\yii\redis\Profile\RedisVersion280;
+use apaoww\yii\redis\Profile\RedisVersion300;
+use apaoww\yii\redis\Profile\RedisVersion320;
 use Predis\Client;
 use Predis\Profile\Factory;
 use yii\db\Exception;

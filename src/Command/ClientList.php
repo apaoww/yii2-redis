@@ -5,7 +5,7 @@
  * Time: 16:29
  */
 
-namespace pavle\yii\redis\Command;
+namespace apaoww\yii\redis\Command;
 
 
 class ClientList extends \Predis\Command\ServerClient

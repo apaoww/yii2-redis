@@ -5,7 +5,7 @@
  * Time: 16:11
  */
 
-namespace pavle\yii\redis\Command;
+namespace apaoww\yii\redis\Command;
 
 
 use Predis\Command\Command;

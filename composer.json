@@ -1,5 +1,5 @@
 {
-  "name": "pavle/yii2-redis",
+  "name": "apaoww/yii2-redis",
   "description": "Yii 2 Redis extension with predis",
   "type": "yii2-extension",
   "keywords": [
@@ -15,13 +15,13 @@
   },
   "authors": [
     {
-      "name": "Pavle Lee",
-      "email": "523260513@qq.com"
+      "name": "Apa Oww",
+      "email": "apa.oww@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "pavle\\yii\\redis\\": "src"
+      "apaoww\\yii\\redis\\": "src"
     }
   }
 }
